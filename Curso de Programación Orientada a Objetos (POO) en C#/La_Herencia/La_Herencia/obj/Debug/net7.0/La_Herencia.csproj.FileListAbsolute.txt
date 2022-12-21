@@ -1,0 +1,15 @@
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\bin\Debug\net7.0\La_Herencia.exe
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\bin\Debug\net7.0\La_Herencia.deps.json
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\bin\Debug\net7.0\La_Herencia.runtimeconfig.json
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\bin\Debug\net7.0\La_Herencia.dll
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\bin\Debug\net7.0\La_Herencia.pdb
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\obj\Debug\net7.0\La_Herencia.csproj.AssemblyReference.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\obj\Debug\net7.0\La_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\obj\Debug\net7.0\La_Herencia.AssemblyInfoInputs.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\obj\Debug\net7.0\La_Herencia.AssemblyInfo.cs
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\obj\Debug\net7.0\La_Herencia.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\obj\Debug\net7.0\La_Herencia.dll
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\obj\Debug\net7.0\refint\La_Herencia.dll
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\obj\Debug\net7.0\La_Herencia.pdb
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\obj\Debug\net7.0\La_Herencia.genruntimeconfig.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\La_Herencia\La_Herencia\obj\Debug\net7.0\ref\La_Herencia.dll

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="yilxcrrs.1ve~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Herramientas">
+      <HintPath>..\..\Herramientas\Herramientas\bin\Debug\net7.0\Herramientas.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

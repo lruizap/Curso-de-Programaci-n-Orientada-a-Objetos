@@ -1,0 +1,15 @@
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.csproj.AssemblyReference.cache
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.AssemblyInfoInputs.cache
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.AssemblyInfo.cs
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.csproj.CoreCompileInputs.cache
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.exe
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.deps.json
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.runtimeconfig.json
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.dll
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.pdb
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.dll
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\obj\Debug\net7.0\refint\Ejercicio1.dll
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.pdb
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.genruntimeconfig.cache
+F:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Ejercicios\Ejercicio1\Ejercicio1\obj\Debug\net7.0\ref\Ejercicio1.dll

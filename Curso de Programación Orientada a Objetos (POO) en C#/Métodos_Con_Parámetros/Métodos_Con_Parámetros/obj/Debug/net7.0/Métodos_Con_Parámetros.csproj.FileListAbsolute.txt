@@ -1,0 +1,15 @@
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\bin\Debug\net7.0\Métodos_Con_Parámetros.exe
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\bin\Debug\net7.0\Métodos_Con_Parámetros.deps.json
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\bin\Debug\net7.0\Métodos_Con_Parámetros.runtimeconfig.json
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\bin\Debug\net7.0\Métodos_Con_Parámetros.dll
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\bin\Debug\net7.0\Métodos_Con_Parámetros.pdb
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\obj\Debug\net7.0\Métodos_Con_Parámetros.csproj.AssemblyReference.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\obj\Debug\net7.0\Métodos_Con_Parámetros.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\obj\Debug\net7.0\Métodos_Con_Parámetros.AssemblyInfoInputs.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\obj\Debug\net7.0\Métodos_Con_Parámetros.AssemblyInfo.cs
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\obj\Debug\net7.0\Métodos_Con_Parámetros.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\obj\Debug\net7.0\Métodos_Con_Parámetros.dll
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\obj\Debug\net7.0\refint\Métodos_Con_Parámetros.dll
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\obj\Debug\net7.0\Métodos_Con_Parámetros.pdb
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\obj\Debug\net7.0\Métodos_Con_Parámetros.genruntimeconfig.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\Métodos_Con_Parámetros\Métodos_Con_Parámetros\obj\Debug\net7.0\ref\Métodos_Con_Parámetros.dll

@@ -1,0 +1,15 @@
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\bin\Debug\net7.0\El_Constructor.exe
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\bin\Debug\net7.0\El_Constructor.deps.json
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\bin\Debug\net7.0\El_Constructor.runtimeconfig.json
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\bin\Debug\net7.0\El_Constructor.dll
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\bin\Debug\net7.0\El_Constructor.pdb
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\obj\Debug\net7.0\El_Constructor.csproj.AssemblyReference.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\obj\Debug\net7.0\El_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\obj\Debug\net7.0\El_Constructor.AssemblyInfoInputs.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\obj\Debug\net7.0\El_Constructor.AssemblyInfo.cs
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\obj\Debug\net7.0\El_Constructor.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\obj\Debug\net7.0\El_Constructor.dll
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\obj\Debug\net7.0\refint\El_Constructor.dll
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\obj\Debug\net7.0\El_Constructor.pdb
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\obj\Debug\net7.0\El_Constructor.genruntimeconfig.cache
+E:\Cursos\Curso de Programación Orientada a Objetos (POO) en C#\El_Constructor\El_Constructor\obj\Debug\net7.0\ref\El_Constructor.dll
